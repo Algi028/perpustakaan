@@ -18,4 +18,5 @@ class Home extends BaseController
         $this->m_login->proses_login($user, $email, $pass);
     }
 
+    
 }
